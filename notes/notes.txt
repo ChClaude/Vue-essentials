@@ -1,0 +1,7 @@
+v-bind: could also be :
+v-if, v-else,
+
+v-show: is a more performant action.
+v-on: could also be @
+
+:class="{disabledButton: !inStock}" : this sets the disabled button class set to disabledButton if !inStock returns true.
